@@ -7,5 +7,5 @@ These are some source codes and database for paper 'iSuccLys-BLS'.
 FV.py: source code for feature Frequency vector;
 OHE.py: source code for feature One-hot encoding;
 PCP&DWT.py: source code for feature Physicochemical properties;
-ETC13~ETC33: 
+ETC13~ETC33: feature index selected from OHE features;;
 Database.rar: dataset of training data and independent test data.
